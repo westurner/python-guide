@@ -99,3 +99,5 @@ packages related to data analytics and big data. Anaconda comes in two
 flavors, a paid for version and a completely free and open source community
 edition, Anaconda CE, which contains a slightly reduced feature set. Free
 licenses for the paid-for version are available for academics and researchers.
+`Anaconda and Python related documentation <http://docs.continuum.io/index.html>`_
+
